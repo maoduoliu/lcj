@@ -1,4 +1,2 @@
 # lcj
-MyBit
-
-text look look！
+项目描述
